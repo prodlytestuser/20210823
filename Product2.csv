@@ -1,7 +1,7 @@
 "Guid","Description","DisplayUrl","ExternalId","Family","IsActive","Name","ProductCode","QuantityUnitOfMeasure","StockKeepingUnit"
 03dbe3b5-bdfd-43ce-9e17-fb7e0818decd,"#N/A","#N/A","#N/A","#N/A",true,Test Product D,"#N/A","#N/A","#N/A"
 45db6299-91e8-4664-b158-7a87e4b961f3,"#N/A","#N/A","#N/A","#N/A",true,Test Product C,TPC,"#N/A","#N/A"
-554be3f7-7aac-401d-8816-813654e228f9,"#N/A","#N/A","#N/A","#N/A",true,Test Product A,"#N/A","#N/A","#N/A"
+554be3f7-7aac-401d-8816-813654e228f9,"#N/A","#N/A","#N/A","#N/A",true,Test Product AAA,"#N/A","#N/A","#N/A"
 6cede06e-bcc9-403e-b93a-87ffc757507d,"#N/A","#N/A","#N/A","#N/A",true,Test Product A,"#N/A","#N/A","#N/A"
 861b47d5-3943-4098-9934-fa25b7e54125,"#N/A","#N/A","#N/A","#N/A",true,Test Product C,TPC,"#N/A","#N/A"
 bbb67b62-df3c-474e-b261-a342336d7e28,"#N/A","#N/A","#N/A",None,false,Test Product B,AS1,"#N/A","#N/A"
